@@ -26,4 +26,4 @@ Interactive Retail Sales Dashboard built using Microsoft Excel, Power Query, Piv
 
 ## Dashboard Preview
 
-![Dashboard](Sashboard_Preview.png)
+![Dashboard](Dashboard_Preview.png)
