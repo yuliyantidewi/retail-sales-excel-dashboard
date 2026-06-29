@@ -1,0 +1,15 @@
+Dataset:
+Superstore Sales Dataset
+
+Source:
+Kaggle - Superstore Sales Dataset
+
+Tools:
+Microsoft Excel
+Power Query
+Pivot Table
+Pivot Chart
+Slicer
+
+Project Type:
+Retail Sales Analysis Dashboard
